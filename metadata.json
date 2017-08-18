@@ -1,0 +1,15 @@
+{
+  "name": "eduardodicarterj-selenium_md_gocd",
+  "version": "0.0.1",
+  "author": "eduardodicarterj",
+  "summary": "Modulo que provisiona a instalacao e configuracao da ferramenta de entrega continua GOCD",
+  "license": "Apache-2.0",
+  "source": "https://github.com/github.com/SeleniumWebModule/selenium_md_gocd",
+  "project_page": "https://github.com/github.com/SeleniumWebModule/selenium_md_gocd",
+  "issues_url": "https://github.com/github.com/SeleniumWebModule/selenium_md_gocd/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
